@@ -5,13 +5,14 @@
 **My name is Raffi and I am a student in Binus University!**\
 **Nice to meet you!** 😁
 
-|------|-------------------------------------------|
-|------|
+
+| ------ | ------------------------------------------- |
+| ------ |
 | Pong | One of the first games I made using unity |
 | Snake | Another simple game I made using Unity |
 | Brick Breaker | I'm trying something a bit more in this game |
-|------|
-|------|-------------------------------------------|
+| ------ |
+| ------ | ------------------------------------------- |
 
 <!--
 **raffiwr/raffiwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
