@@ -6,10 +6,11 @@
 **Nice to meet you!** 😁
 
 |------|-------------------------------------------|
-|--------------------------------------------------|
+|------|
 | Pong | One of the first games I made using unity |
 | Snake | Another simple game I made using Unity |
 | Brick Breaker | I'm trying something a bit more in this game |
+|------|
 |------|-------------------------------------------|
 
 <!--
