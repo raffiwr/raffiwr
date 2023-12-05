@@ -13,7 +13,7 @@
 | -------- |
 | [Snake](https://github.com/raffiwr/Snake-Game) | Another simple game I made using Unity |
 | -------- |
-| [Brick Breaker]() | I'm trying something a bit more in this game |
+| [Brick Breaker](https://github.com/raffiwr/Brick-Breaker) | I'm trying something a bit more in this game |
 
 
 -----
