@@ -9,7 +9,7 @@
 
 | Game | Description |
 |------|-------------|
-| Pong | One of the first games I made using Unity |
+| [Pong](https://github.com/raffiwr/Snake-Game) | One of the first games I made using Unity |
 | -------- |
 | Snake | Another simple game I made using Unity |
 | -------- |
