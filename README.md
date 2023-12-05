@@ -9,11 +9,11 @@
 
 | Game | Description |
 |------|-------------|
-| [Pong](https://github.com/raffiwr/Snake-Game) | One of the first games I made using Unity |
+| [Pong]() | One of the first games I made using Unity |
 | -------- |
-| Snake | Another simple game I made using Unity |
+| [Snake](https://github.com/raffiwr/Snake-Game) | Another simple game I made using Unity |
 | -------- |
-| Brick Breaker | I'm trying something a bit more in this game |
+| [Brick Breaker]() | I'm trying something a bit more in this game |
 
 
 -----
