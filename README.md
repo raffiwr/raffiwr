@@ -2,7 +2,7 @@
 
 ![Banner-raffi](https://github.com/raffiwr/raffiwr/assets/145559021/e24d4a46-d6aa-424e-a598-684ad9489dd8)
 
-**My name is Raffi and I am a student in Binus University!**\
+**My name is Raffi and Welcome to my Profile!**\
 **Nice to meet you!** 😁
 
 -----
