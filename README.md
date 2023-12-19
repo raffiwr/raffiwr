@@ -15,6 +15,32 @@
 |  ![272155106-937616c3-0482-4a75-ac3a-58820979cb2c](https://github.com/raffiwr/raffiwr/assets/145559021/13b2336c-c9d5-4525-8a40-bf8aa78ae085)|
 | [Brick Breaker](https://github.com/raffiwr/Brick-Breaker) | I'm trying something a bit more in this game |
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://github.com/raffiwr/Simple-Pong">Pong 🏓</a></th>
+      <th width="50%"><a href="https://github.com/raffiwr/Snake-Game">Snake 🐍</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></></td>
+      <td></></td>
+    </tr>
+    <tr>
+      <td valign="text-top"></td>
+      <td valign="text-top"<div></div></td>
+    </tr>
+    <tr>
+      <td><a href=""></td>
+      <td><a href=""></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href=""></td>
+    </tr>
+  </tbody>
+</table>
 
 -----
 
